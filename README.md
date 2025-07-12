@@ -1,6 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# RUACH - Gas-Free Cryptocurrency
 
-## Getting Started
+## 🚀 The World's First Truly Gas-Free Cryptocurrency
+
+RUACH is a revolutionary cryptocurrency built with ZERO transaction fees. No gas, no fees, no hidden costs - just pure, feeless transactions.
+
+## ✨ Key Features
+
+- **🆓 ZERO Transaction Fees** - Send any amount without paying gas fees
+- **🪙 Custom Token Creation** - Create your own tokens for FREE
+- **⚡ Instant Transactions** - No waiting for block confirmations
+- **💼 Built-in Wallet** - Secure wallet with mnemonic backup
+- **📱 Modern UI** - Beautiful, responsive interface
+- **🔒 Secure** - Cryptographically secure with proper key management
+
+## 🎯 Why Gas-Free Matters
+
+Traditional cryptocurrencies charge fees for:
+- ❌ Sending tokens ($1-50+ in gas fees)
+- ❌ Creating tokens ($100+ in gas fees)
+- ❌ Smart contract interactions ($5-200+ in gas fees)
+
+RUACH charges **ZERO** for everything:
+- ✅ Send tokens: **FREE**
+- ✅ Create tokens: **FREE**
+- ✅ All transactions: **FREE**
+
+## 🚀 Getting Started
 
 First, run the development server:
 
